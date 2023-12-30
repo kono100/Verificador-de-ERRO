@@ -1,0 +1,114 @@
+voce pega o resultado que voce transformou com Formatador-para-fazer-INSERT  link do formatador  ( https://github.com/kono100/Formatador-para-fazer-INSERT  )
+
+
+
+o resultado :
+
+
+(1, 1, 'joão gonzo', 35, '2000-01-10', 'engenheiro', 3500.00),
+(2, 1, 'maria laura', 25, '1998-03-01', 'secretaria', 1700.00),
+(3, 5, 'carlos inácio', 23, '1999-06-06', 'engenheiro', 3000.00),
+(4, 4, 'camila pitanga', 34, '1997-02-23', 'diretor', 15000.00),
+(5, 5, 'pedro luz', 44, '2003-11-25', 'analista', 4700.00),
+(6, 4, 'peter chen', 18, '2005-02-23', 'presidente', 50000.00),
+(7, 3, 'paulo coelho', 45, '2002-05-17', 'contador', 3000.00),
+(8, 4, 'josefina litre', 31, '1996-10-11', 'secretaria', 1200.00),
+(9, 5, 'claudia low', 26, '2000-12-12', 'secretaria', 1100.00),
+(10, 2, 'luiz souza', 31, '1997-01-03', 'vendedor', 2500.00),
+(11, 3, 'mariana barbosa', 23, '2014-11-22', 'básico', 1400.00),
+(12, 5, 'carlos cunha', 42, '2016-09-05', 'analista', 8700.00),
+(13, 5, 'denis piter', 44, '2008-03-02', 'técnico', 3200.00),
+(14, 1, 'maria luiza', 37, '2009-07-15', 'engenheiro', 6960.00),
+(15, 1, 'lívia andrade', 36, '2004-04-19', 'técnico', 3680.00);
+
+
+
+
+e insira no  Sistema que ajuda achar verificar BUGS em MySQL.py   Link (  https://github.com/kono100/Verificador-de-ERRO  )
+
+
+vai entregar esse resultado :
+
+
+Qual seu texto: (1, 1, 'joão gonzo', 35, '2000-01-10', 'engenheiro', 3500.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (2, 1, 'maria laura', 25, '1998-03-01', 'secretaria', 1700.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (3, 5, 'carlos inácio', 23, '1999-06-06', 'engenheiro', 3000.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (4, 4, 'camila pitanga', 34, '1997-02-23', 'diretor', 15000.00), 
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (5, 5, 'pedro luz', 44, '2003-11-25', 'analista', 4700.00),    
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (6, 4, 'peter chen', 18, '2005-02-23', 'presidente', 50000.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (7, 3, 'paulo coelho', 45, '2002-05-17', 'contador', 3000.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (8, 4, 'josefina litre', 31, '1996-10-11', 'secretaria', 1200.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (9, 5, 'claudia low', 26, '2000-12-12', 'secretaria', 1100.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (10, 2, 'luiz souza', 31, '1997-01-03', 'vendedor', 2500.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (11, 3, 'mariana barbosa', 23, '2014-11-22', 'básico', 1400.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (12, 5, 'carlos cunha', 42, '2016-09-05', 'analista', 8700.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (13, 5, 'denis piter', 44, '2008-03-02', 'técnico', 3200.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (14, 1, 'maria luiza', 37, '2009-07-15', 'engenheiro', 6960.00),
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+Qual seu texto: (15, 1, 'lívia andrade', 36, '2004-04-19', 'técnico', 3680.00);
+quantidade de Virgula:  6
+quantidade de   aspas:  6
+
+
+
+
+
+
+se os resultado for tudo igual igaul o do exemplo 
+
+quantidade de Virgula:  7
+quantidade de   aspas:  6
+
+
+e o ultimo faltar uma virgula igual ao exemplo, pois precisa de ; para finalizar o insert
+
+
+quantidade de Virgula:  6
+quantidade de   aspas:  6
+
+
+
+
+ai tudo indica que o insert esta formatado corretamente !  pronto para ser inserido no banco de dados !
+
