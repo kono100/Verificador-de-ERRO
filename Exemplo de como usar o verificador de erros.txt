@@ -112,7 +112,26 @@ quantidade de   aspas:  6
 
 
 
+
+
+
+
 outro exemplo
+
+
+
+
+
+
+exemplo com outro
+
+
+(1, 'engenharia', 1230000.00, 'prédio engenharia'),
+(2, 'marketing', 1000000.00, 'prédio 1'),
+(3, 'finanças', 2000000.00, 'sala 2'),
+(4, 'diretoria', 2500000.00, 'mezanino'),
+(5, 'informática', 950000.00, 'anexo b');
+
 
 
 
@@ -161,4 +180,3 @@ quantidade de   aspas:  4
 
 
 ai tudo indica que o insert esta formatado corretamente !  pronto para ser inserido no banco de dados !
-
