@@ -110,5 +110,55 @@ quantidade de   aspas:  6
 
 
 
+
+
+outro exemplo
+
+
+
+
+
+
+
+
+Qual seu texto: (1, 'engenharia', 1230000.00, 'prédio engenharia'),
+quantidade de Virgula:  4
+quantidade de   aspas:  4
+
+Qual seu texto: (2, 'marketing', 1000000.00, 'prédio 1'),
+quantidade de Virgula:  4
+quantidade de   aspas:  4
+
+Qual seu texto: (3, 'finanças', 2000000.00, 'sala 2'),
+quantidade de Virgula:  4
+quantidade de   aspas:  4
+
+Qual seu texto: (4, 'diretoria', 2500000.00, 'mezanino'),
+quantidade de Virgula:  4
+quantidade de   aspas:  4
+
+Qual seu texto: (5, 'informática', 950000.00, 'anexo b');
+quantidade de Virgula:  3
+quantidade de   aspas:  4
+
+
+
+se os resultado for tudo igual igaul o do exemplo 
+
+quantidade de Virgula:  4
+quantidade de   aspas:  4
+
+
+e o ultimo faltar uma virgula igual ao exemplo, pois precisa de ; para finalizar o insert
+
+
+quantidade de Virgula:  3
+quantidade de   aspas:  4
+
+
+
+
+
+
 ai tudo indica que o insert esta formatado corretamente !  pronto para ser inserido no banco de dados !
 
